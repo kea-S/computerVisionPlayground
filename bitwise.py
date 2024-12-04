@@ -20,7 +20,7 @@ cv.imshow('and', bitwise_and)
 bitwise_xor = cv.bitwise_xor(rectangle, circle)
 cv.imshow('xor', bitwise_xor)
 
-# bitwise xor
+# bitwise not
 bitwise_not = cv.bitwise_not(rectangle)
 cv.imshow('not rectangle', bitwise_not)
 
